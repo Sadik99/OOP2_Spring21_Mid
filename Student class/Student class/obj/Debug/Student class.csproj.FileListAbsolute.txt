@@ -1,0 +1,7 @@
+E:\C_sharp\Student class\Student class\bin\Debug\Student class.exe.config
+E:\C_sharp\Student class\Student class\bin\Debug\Student class.exe
+E:\C_sharp\Student class\Student class\bin\Debug\Student class.pdb
+E:\C_sharp\Student class\Student class\obj\Debug\Student class.csprojAssemblyReference.cache
+E:\C_sharp\Student class\Student class\obj\Debug\Student class.csproj.CoreCompileInputs.cache
+E:\C_sharp\Student class\Student class\obj\Debug\Student class.exe
+E:\C_sharp\Student class\Student class\obj\Debug\Student class.pdb
