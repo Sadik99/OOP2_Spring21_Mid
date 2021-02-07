@@ -1,0 +1,6 @@
+E:\C_sharp\sum of odd even\sum of odd even\bin\Debug\sum of odd even.exe.config
+E:\C_sharp\sum of odd even\sum of odd even\bin\Debug\sum of odd even.exe
+E:\C_sharp\sum of odd even\sum of odd even\bin\Debug\sum of odd even.pdb
+E:\C_sharp\sum of odd even\sum of odd even\obj\Debug\sum of odd even.csproj.CoreCompileInputs.cache
+E:\C_sharp\sum of odd even\sum of odd even\obj\Debug\sum of odd even.exe
+E:\C_sharp\sum of odd even\sum of odd even\obj\Debug\sum of odd even.pdb

@@ -1,0 +1,6 @@
+E:\C_sharp\five subject\five subject\bin\Debug\five subject.exe.config
+E:\C_sharp\five subject\five subject\bin\Debug\five subject.exe
+E:\C_sharp\five subject\five subject\bin\Debug\five subject.pdb
+E:\C_sharp\five subject\five subject\obj\Debug\five subject.csproj.CoreCompileInputs.cache
+E:\C_sharp\five subject\five subject\obj\Debug\five subject.exe
+E:\C_sharp\five subject\five subject\obj\Debug\five subject.pdb

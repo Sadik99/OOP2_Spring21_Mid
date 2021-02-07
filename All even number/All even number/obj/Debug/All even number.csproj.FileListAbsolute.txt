@@ -1,0 +1,7 @@
+E:\C_sharp\All even number\All even number\bin\Debug\All even number.exe.config
+E:\C_sharp\All even number\All even number\bin\Debug\All even number.exe
+E:\C_sharp\All even number\All even number\bin\Debug\All even number.pdb
+E:\C_sharp\All even number\All even number\obj\Debug\All even number.csprojAssemblyReference.cache
+E:\C_sharp\All even number\All even number\obj\Debug\All even number.csproj.CoreCompileInputs.cache
+E:\C_sharp\All even number\All even number\obj\Debug\All even number.exe
+E:\C_sharp\All even number\All even number\obj\Debug\All even number.pdb
