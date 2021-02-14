@@ -1,0 +1,6 @@
+E:\C_sharp\unique elements\unique elements\bin\Debug\unique elements.exe.config
+E:\C_sharp\unique elements\unique elements\bin\Debug\unique elements.exe
+E:\C_sharp\unique elements\unique elements\bin\Debug\unique elements.pdb
+E:\C_sharp\unique elements\unique elements\obj\Debug\unique elements.csproj.CoreCompileInputs.cache
+E:\C_sharp\unique elements\unique elements\obj\Debug\unique elements.exe
+E:\C_sharp\unique elements\unique elements\obj\Debug\unique elements.pdb

@@ -1,0 +1,6 @@
+E:\C_sharp\duplicate\duplicate\bin\Debug\duplicate.exe.config
+E:\C_sharp\duplicate\duplicate\bin\Debug\duplicate.exe
+E:\C_sharp\duplicate\duplicate\bin\Debug\duplicate.pdb
+E:\C_sharp\duplicate\duplicate\obj\Debug\duplicate.csproj.CoreCompileInputs.cache
+E:\C_sharp\duplicate\duplicate\obj\Debug\duplicate.exe
+E:\C_sharp\duplicate\duplicate\obj\Debug\duplicate.pdb
